@@ -1,0 +1,2 @@
+- To install necessary packages, type "go get"
+- To build, type "go build"
